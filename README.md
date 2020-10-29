@@ -6,8 +6,8 @@
 
 My life gist :
 
-- 🔭 I’m currently learning various fields of AI and Software Development!.
-- 📚 What do I beleive? Jack of all, Master of some.
+- 🔭 I’m currently learning various fields of AI and Software Development!
+- 📚 What do I believe? Jack of all, Master of some.
 - 🌱 I’m currently learning to manage my time, and be productive.
 - 👯 I’m looking to collaborate on any idea that impresses me.
 - 💬 Ask me about Web Development, Deep Learning, AI, Finance.
